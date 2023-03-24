@@ -14,7 +14,7 @@ public class EjercicioJava {
     
     public void imprimirPerimetro(){
         int perimetro=lado*4;
-        System.out.println("El perimetro es de: "+perimetro+" cm");
+        System.out.println("Perimetro es de: "+perimetro+" cm");
     }
     
     public void imprimirSuperficie(){
